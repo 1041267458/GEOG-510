@@ -40,6 +40,6 @@ var grace_example = grace_data.first()
 var graceViz = {bands: ['lwe_thickness_csr'],min: -20.0, max: 20.0, palette: ['red','blue']};
 
 Map.centerObject(grace_example,2); //
-Map.addLayer(grace_example,graceViz);
+Map.addLayer(grace_example,graceViz,''Equivalent Water Thickness CSR'');
 
 ```
