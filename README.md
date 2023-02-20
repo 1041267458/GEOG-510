@@ -22,9 +22,11 @@ The GRACE Tellus (GRCTellus) Monthly Mass Grids dataset is produced by three cen
 Source: https://www2.csr.utexas.edu/grace/gravity/
 
 Also, here is a Youtube Video about GRACE Project
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=MaxBOvQ2a_o
-" target="_blank"><img src="http://img.youtube.com/vi/MaxBOvQ2a_o/0.jpg" 
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=MaxBOvQ2a_o" target="_blank"><img src="http://img.youtube.com/vi/MaxBOvQ2a_o/0.jpg" 
 alt="For 15 Years, GRACE Tracked Freshwater Movements Around the World" width="240" height="180" border="10" /></a>
+
+For 15 Years, GRACE Tracked Freshwater Movements Around the World
 ## Google Earth Engine Coding Sample
 1. Read and load the data
 ```javascript
