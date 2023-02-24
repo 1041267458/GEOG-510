@@ -6,7 +6,7 @@ GEOG 510 Course website
 * I'm Yinan 😄
 * I'm a GIS and Data Science lover and begainer ⚡
 * I'm currently learning Python and Google Earth Engine 🌱
-* Feel free to contact me throught [email](mailto:feng.945@osu.edu) 📫
+* Feel free to contact me through [email](mailto:feng.945@osu.edu) 📫
 * You can find more infomation about me throught my [personal webpage](https://u.osu.edu/feng.945/) 💬
 
 ## GRACE Satellite Data
