@@ -7,7 +7,7 @@ GEOG 510 Course website
 * I'm a GIS and Data Science lover and begainer ⚡
 * I'm currently learning Python and Google Earth Engine 🌱
 * Feel free to contact me through [email](mailto:feng.945@osu.edu) 📫
-* You can find more infomation about me throught my [personal webpage](https://u.osu.edu/feng.945/) 💬
+* You can find more infomation about me  my [personal webpage](https://u.osu.edu/feng.945/) 💬
 
 ## GRACE Satellite Data
 Gravity Recovery and Climate Experiment project, launched on 17 March 2002 by NASA and German Aerospace Center (see project webiste [here](https://grace.jpl.nasa.gov/mission/grace/)), is able to measure the changes of Earth’s gravity field (Adam, 2002). Scientists are subsequently capable of interpreting these changes in gravity as water movement, whether on the surface or under the ground.
